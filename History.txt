@@ -1,5 +1,8 @@
+== Version 1.15.1
+ * Bugfix: iso_date fixes (Robert Brown)
+
 == Version 1.15
- * Fixed bad gemspec which did not include the forms_helper
+ * Bugfix: don't include the :image option in the input field
 
 == Version 1.14
  * Added support for Rails 2.3
@@ -233,5 +236,4 @@ June 1, 2007
 
   * Initial release!
 	
-
 
